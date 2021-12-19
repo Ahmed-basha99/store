@@ -22,7 +22,7 @@ PROJECT_PATH = os.path.realpath(os.path.dirname(__file__))
 TEMPLATE_DIRS = [
     os.path.join(PROJECT_PATH, 'templates/'),
 ]
-#
+
 # ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 #
 # TEMPLATE =
